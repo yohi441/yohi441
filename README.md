@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @yohi441
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python and javascript for web development and automating some stuff
-- 💞️ I’m looking to collaborate on Full stack web development
+👋 Hi, I’m @yohi441  
+👀 Backend engineer who enjoys clean architecture and scalable systems  
+🚀 I build full-stack apps and automate anything that feels repetitive  
+💞️ Open to collaborating on interesting web projects  
+⚡ Fun fact: If it can be automated, I’ll automate it.
 - 📫 How to reach me: rikou92991@gmail.com
 
 <!---
